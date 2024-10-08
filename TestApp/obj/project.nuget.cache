@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GgWutI/7HZfgCLO4QA09DteDItcGKuA7a5tODfxQRLtiWrosCMG/2WEiWyXbV56AFgUwCghXg9sDQKpZtU9r2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romek\\OneDrive\\Desktop\\Programming Fundamentals and Unit Testing for QA\\03. Unit Testing_ Characters Range_Resourses\\Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\romek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\romek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
