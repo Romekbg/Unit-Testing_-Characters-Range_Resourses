@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a65b5e20-7660-47a8-a222-58281a7de4b9)
 # Unit Testing - Character Range Resources
 
 ## Description
